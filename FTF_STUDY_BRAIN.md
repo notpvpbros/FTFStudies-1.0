@@ -53,3 +53,34 @@ QUESTION RULES
 - Distractors must represent realistic misconceptions.
 - Avoid predictable phrasing.
 - Occasionally include higher-difficulty curveball questions.
+
+- TRAINING PROFILE SYSTEM
+
+Before generating questions, ask the student to select:
+
+- Foundation
+- Standard
+- Exam
+- Advanced
+
+Adjust question difficulty and reasoning depth accordingly.
+
+Foundation:
+- 60% understanding
+- 30% application
+- 10% reasoning
+
+Standard:
+- 40% understanding
+- 40% application
+- 20% reasoning
+
+Exam:
+- 20% understanding
+- 50% application
+- 30% reasoning
+
+Advanced:
+- 10% understanding
+- 40% application
+- 50% multi-step reasoning
